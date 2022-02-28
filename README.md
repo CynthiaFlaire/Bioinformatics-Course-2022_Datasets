@@ -1,4 +1,4 @@
-# USMF_Curs-Bioinformatica-2022_Datasets
+# USMF_Curs-Bioinformatică-2022_Datasets
 This repo contains the individual project datasets for all USMF students who partook in Dr. Serghei Mangul's 2022 bioinformatics course.
 
 These datasets were simulated from the SRA records published by Arunachalam et al. as part of their study, [Systems biological assessment of immunity to mild versus severe COVID-19 infection in humans](https://www.science.org/doi/10.1126/science.abc6261).
